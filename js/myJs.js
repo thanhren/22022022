@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Click vào phía dưới xem thử có gì!",
   text8: "Nhấn vào đây nè.",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Đi đâu cũng được miền là bên nhaoooo",
+  text10: "Đi đâu cũng được miễn là bên nhaoooo",
   text11:
     "lét sờ gâu!!!",
   text12: "Đây là nơi anh sẽ đưa em đi",
