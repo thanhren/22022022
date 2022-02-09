@@ -1,17 +1,17 @@
 const textConfig = {
-   text1: "Happy Birthday To You",
-  text2: "Chúc mừng giáng sinh vui vẻ :))",
-  text3: "Chúc Thùy Hằng có một ngày sinh nhật vui vẻ",
-  text4: "Và nhiều ngày sau cũng như thế!",
-  text5: "Xin lỗi, không cần",
-  text6: "Cảm ơn rất nhiều ^^!",
+   text1: "Hế lô cưng!!!",
+  text2: "Chúc mừng cưng đã có Chú :))",
+  text3: "Chúc Phương Thẻo có một tình êu thật đẹp cùng Chú",
+  text4: "Và nhiều ngày đi ... :))",
+  text5: "Xin lỗi, không đi",
+  text6: "Đi đâu?",
   text7: "Click vào phía dưới xem thử có gì!",
   text8: "Nhấn vào đây nè.",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Happy birthday to you",
+  text10: "Đi đâu cũng được miền là bên nhaoooo",
   text11:
-    "Chúc Hằng một tuổi mới đầy những điều may mắn nhé! ",
-  text12: "Nghe một bài nhạc tận hưởng ngày sinh nhật.",
+    "lét sờ gâu!!!",
+  text12: "Đây là nơi anh sẽ đưa em đi",
 };
 
 
@@ -139,7 +139,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.youtube.com/watch?v=bJi8SWxFJcg";
+            window.location = "https://www.google.com/search?q=nh%C3%A0+ngh%E1%BB%89";
           },
         });
       }
